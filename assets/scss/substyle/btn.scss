@@ -1,0 +1,10 @@
+.btn {
+  position: relative;
+  border-color: transparent;
+  outline: none;
+  font-family: 'Inter', sans-serif !important;
+  text-align: center;
+  cursor: pointer;
+  background-color: transparent;
+  @include transition;
+}

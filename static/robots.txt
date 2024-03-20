@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio.ranks.pro/sitemap.xml
+Sitemap: https://portfolio.ranks.pro/sitemap_ru.xml
+Sitemap: https://portfolio.ranks.pro/sitemap_en.xml
